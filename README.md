@@ -12,3 +12,4 @@
 getting the list of palindormes from an oxford dictionary
 
 * Prime numbers list
+* finding anagrams
